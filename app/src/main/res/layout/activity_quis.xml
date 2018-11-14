@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    android:orientation="vertical"
+    tools:context=".kuis"
+    style="@style/Theme.AppCompat.NoActionBar"
+    >
+
+
+    <TextView
+        android:id="@+id/number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="16dp"
+        android:textSize="16dp"
+        android:background="@android:color/white"
+        />
+
+    <TextView
+        android:id="@+id/soal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="24dp"
+        android:background="@android:color/white"/>
+
+    <RadioGroup
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="20dp"
+        android:background="@android:color/white"
+        android:layout_marginRight="20dp"
+        android:id="@+id/radiogrup"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5px">
+
+        <RadioButton
+            android:id="@+id/j1"
+            android:checked="false"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="RadioButton"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/j2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_weight="1"
+            android:text="RadioButton"
+            android:checked="false"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/j3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_weight="1"
+            android:checked="false"
+            android:text="RadioButton"
+            android:textSize="18sp" />
+
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="bottom"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/gak"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="170dp"
+            android:layout_weight="1"
+            android:background="@color/semi"
+            android:text="kembali"
+            android:textColor="@android:color/background_light"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/btnok"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="170dp"
+            android:layout_weight="1"
+            android:background="@color/semi"
+            android:text="lanjut"
+            android:textColor="@android:color/background_light"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+
+</LinearLayout>

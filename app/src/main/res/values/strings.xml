@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">hut RI</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="tanya">
+        <item>Kapan Soekarno dilahirkan?</item>
+        <item>Di kota mana Hasyim Asyari wafat?</item>
+        <item>Bung Tomo wafat pada usia?</item>
+        <item>Dimana Bung Hatta dilahirkan?</item>
+        <item>Ahmad Dahlan merupakan pendiri organisasi?</item>
+    </string-array>
+
+
+    <string name="inggris">
+        <h>
+            Masa penjajahan oleh Inggris
+        </h>
+        <p>
+            Pada 17 September 1811. Pemerintah Inggris mengangkat Thomas Stamford Raffles sebagai gubernur jenderal di Indonesia. Dibawah kepemimpinannya Indonesia banyak mengalami perubahan. Mulai dari penghapusan sistem monopoli, perbudakan, membagi Pulau Jawa menjadi 16 karesidenan, penulisan buku “The History of Java” dan beberapa perubahan lainnya. Namun, kedatangan bangsa Inggris di Indonesia tidak berlangsung lama. Pda tahun 1816, Inggris resmi diusir dari Indonesia.
+        </p>
+
+    </string>
+    <string name="belanda">
+        <h>
+            Masa penjajahan oleh Belanda
+        </h>
+        <p>
+            Pada tahun 1596 dibawah komando Cornelis de Houtman belanda berhasil berlabuh di Banten. Pada tahun 1602 Verenigde Oostindische Compagnie/ VOC didirikan di Banten untuk menguasai pasar rempah-rempah. Karena persaingan dengan Inggris dan Tionghoa, kantor VOC dipindahkan ke Sulawesi Selatan akan tetapi disana mendapakatkan perlawanan dari Sultan Hasanuddin. Setelah berpindah-pindah tempat akhirnya VOC menetap di Yogyakarta.Tahun 1800 VOC dibubarkan setelah belanda kalah dari prancis. Penjajahan Belanda tidak berhenti Semenjak VOC dibubarkan. Belanda kemudian memilih Daendels sebagai gubernur jenderal hindia belanda. Saat masa Deandels, rakyat Indonesia dipaksa untuk membuat jalan raya dari Anyer hingga Panarukan. Namun masa pemerintahan Daendels berlangsung singkat dan kemudian diganti Johannes van den Bosch yang menerapkan cultuur stelsel (sistem tanam paksa).
+        </p>
+    </string>
+    <string name="jepang">
+        <h>
+            Masa penjajahan oleh Jepang
+        </h>
+        <p>
+            Setelah 3,5 abad Belanda menjajah Indonesia, kemudian Jepang menggantikan penjajahan Belanda di Indonesia. Kala itu melalui perjanjian Kalijati pada tanggal 8 maret 1942 Belanda menyerah tanpa syarat kepada Jepang. Masa pendudukan Jepang dimulai pada tahun 1942 dan berakhir pada 17 agustus 1945. Saat melakuakn penjajahan di NKRI Jepang membentuk beberapa organisasi. Organisasi yang dibentuk Jepang antara lain ialah Putera, Heiho (pasukan Indonesia buatan Jepang), PETA (Pembela Tanah Air), Jawa Hokokai (pengganti Putera). Pada awalnya, kedatangan pasukan Jepang disambut dengan ramah oleh bangsa Indonesia. Namun dalam kenyataannya, Jepang tidak jauh berbeda dengan Belanda.
+        </p>
+
+    </string>
+    <string name="bom">
+        <h>
+            Bom Hiroshima-Nagasaki
+        </h>
+        <p>
+            Peristiwa pengeboman Hiroshima pada tanggal 6 Agustus 1945 dan Nagasaki pada 9 Agusstus 1945 memaksa Jepang untuk menyerah tanpa syarat pada sekutu. Dengan demikian kekuasaan Jepang pada Negara jajahannya menjadi tak berarti termasuk Indonesia. Kaisar jepang mengumumkan menyerah pada 15 Agustus sementara dokumen kapitulasi baru akan ditanda tangani pada 2 September. Dengan demikian dari 15 Agustus hingga 2 September 1945 Indonesia mengalami periode kekosongan pemerintahan atau vacuum of power. Kondisi ini dimanfaatkan Indonesia dengan mengupayakan kemerdekaan sesegera mungkin. Sebagai hasilnya pada 17 Agustus 1945 Indonesia memproklamasikan kemerdekaanya.
+        </p>
+
+    </string>
+    <string name="portugis_">
+        <b>Portugis adalah negara yang pertama kali menjajah Indonesia.</b>\n
+        Pada tahun 1511......................
+
+    </string>
+
+    <string name="rengasdengklok">
+        <h>
+            Peristiwa Rengasdengklok
+        </h>
+        <p>
+            Pada tanggal 16 Agustus 1945 pukul 04.00 WIB. Soekarno dan Hatta dibawa ke Rengasdengklok, Karawang, untuk kemudian didesak agar mempercepat proklamasi kemerdekaan republik Indonesia sampai dengan terjadinya kesepakatan antara golongan tua yang diwakili Soekarno, Hatta dan Mr Achmad Soebardjo dengan golongan muda tentang kapan proklamasi akan dilaksanakan. Rencananya proklamasi kan dibacakan pada hari Jumat 17 Agustus 1945 di halaman rumah Bung Karno di Jl Pegangsaan Timur 56. Dan naskah teks proklamasi disusun di rumah Laksamana Muda Maeda di Jakarta.
+        </p>
+
+    </string>
+
+    <string name="proklamasi">
+        <h>
+            Proklamasi Kemerdekaan
+        </h>
+        <p>
+            Proklamasi Kemerdekaan berawal dari diculiknya Ir Soekarno dan Drs Moh Hatta ke Rengasdengklok akibat perbedaan pendapat antara golongan tua dan golongan muda mengenai tanggal pelaksanaan proklamasi. Yang akhirnya lahir kesepakatan bahwa Proklamasi akan dilaksanakan pada tanggal 17 Agustus 1945 bertempat di Jl Pegangsaan Timur 56. Naskah teks proklamasi disusun di rumah Laksamana Muda Maeda dan diketik oleh Sayuti Melik.
+        </p>
+
+    </string>
+
+
+    <string name="portugis">
+
+
+        <p>
+            <b><i>Portugis</i>adalah negara yang pertama kali menjajah Indonesia.</b>\n\n Pada tahun 1511 bangsa Portugis yang dipimpin oleh Alfonso de Albuquerque telah tiba di Malaka dan berhasil menguasainya. Dengan tujuan awal mencari rempah-rempah yang nilainya setara dengan emas pada masa itu. Portugis juga memperluas area kekuasaannya dari Madura sampai dengan Ternate. Tidak tahan dengan jajahan negara Portugis, masyarakat Indonesia melakukan perlawanan yang dikomandoi oleh Fatahillah yang berasal dari Demak di Sunda Kelapa (Jakarta). Setelah berhasil mengusir portugis nama Sunda Kelapa diubah menjadi Jayakarta. Penjajahan oleh portugis berakhir pada tahun 1602
+        </p>
+
+    </string>
+
+    <string name="Belanda">
+
+        <p>
+           <b>Pada tahun 1596 dibawah komando Cornelis de Houtman belanda berhasil berlabuh di Banten</b>.\n\n Pada tahun 1602 Verenigde Oostindische Compagnie/ VOC didirikan di Banten untuk menguasai pasar rempah-rempah. Karena persaingan dengan Inggris dan Tionghoa, kantor VOC dipindahkan ke Sulawesi Selatan akan tetapi disana mendapakatkan perlawanan dari Sultan Hasanuddin. Setelah berpindah-pindah tempat akhirnya VOC menetap di Yogyakarta.Tahun 1800 VOC dibubarkan setelah belanda kalah dari prancis. Penjajahan Belanda tidak berhenti Semenjak VOC dibubarkan. Belanda kemudian memilih Daendels sebagai gubernur jenderal hindia belanda. Saat masa Deandels, rakyat Indonesia dipaksa untuk membuat jalan raya dari Anyer hingga Panarukan. Namun masa pemerintahan Daendels berlangsung singkat dan kemudian diganti Johannes van den Bosch yang menerapkan cultuur stelsel (sistem tanam paksa).
+
+        </p>
+
+    </string>
+
+    <string-array name="j1">
+        <item>06 juli 1901</item>
+        <item>Bandung</item>
+        <item>60 tahun</item>
+        <item>Jawa Timur</item>
+        <item>Nahdlatul Ulama</item>
+    </string-array>
+
+    <string-array name="j2">
+        <item>05 juli 1902</item>
+        <item>Jombang</item>
+        <item>61 tahun</item>
+        <item>Kalimantan Barat</item>
+        <item>LDII</item>
+    </string-array>
+
+    <string-array name="j3">
+        <item>04 juli 1903</item>
+        <item>Surabaya</item>
+        <item>62 tahun</item>
+        <item>Sumatera Barat</item>
+        <item>Muhammadiyah</item>
+    </string-array>
+
+    <string-array name="sengbener">
+        <item>06 juli 1901</item>
+        <item>Jombang</item>
+        <item>61 tahun</item>
+        <item>Sumatera Barat</item>
+        <item>Muhammadiyah</item>
+    </string-array>
+
+    <string-array name="pertanyaan">
+        <item>pertamyam 1</item>
+        <item>pertnyaan 2</item>
+        <item>pertanyaan 3</item>
+        <item>pertanyaan 4</item>
+        <item>pertanyaan 5</item>
+    </string-array>
+
+    <string-array name="j_1">
+        <item>6 juli</item>
+        <item>Jombang</item>
+        <item>61 tahun</item>
+        <item>Sumatra barat</item>
+        <item>NU</item>
+
+    </string-array>
+
+    <string-array name="j_2">
+        <item>05 juli 1902</item>
+        <item>Jombang</item>
+        <item>61 tahun</item>
+        <item>Kalimantan Barat</item>
+        <item>LDII</item>
+    </string-array>
+
+    <string-array name="jawabanbenar">
+        <item>06 juli 1901</item>
+        <item>Jombang</item>
+        <item>61 tahun</item>
+        <item>Sumatera Barat</item>
+        <item>Muhammadiyah</item>
+    </string-array>
+
+
+</resources>
